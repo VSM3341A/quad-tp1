@@ -4,7 +4,11 @@
 
 <question type="multichoice">
 	<name>
-		<text>Dmo question à choix multiples</text>
+
+
+
+		<text>Démo question à choix multiples</text>
+
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
